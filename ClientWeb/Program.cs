@@ -1,4 +1,4 @@
-using ClientWeb.Components;
+using ClientWeb.Src;
 
 var builder = WebApplication.CreateBuilder(args);
 
